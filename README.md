@@ -7,7 +7,7 @@ This library is a very simple wrapper for the SVOX Pico TTS Linux package.
 
 What is Pico?
 
-The Pico Text-to-Speech (TTS) service uses the TTS binary from SVOX for producing spoken text.
+Pico is a Text-To-Speech (TTS) voice sinthesizer. It uses the TTS binary from SVOX for producing spoken text.
 
 Support languages:
 - English, US (en-US)
