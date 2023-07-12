@@ -3,8 +3,7 @@ Rust Wrapper for SVOX Pico TTS
 
 ## Introduction
 
-This library is a very simple wrapper for the SVOX Pico TTS Package
-The Pico Text-to-Speech (TTS) service uses the TTS binary from SVOX for producing spoken text.
+This library is a very simple wrapper for the SVOX Pico TTS Package. The Pico Text-to-Speech (TTS) service uses the TTS binary from SVOX for producing spoken text.
 
 Support languages:
 - English, US (en-US)
