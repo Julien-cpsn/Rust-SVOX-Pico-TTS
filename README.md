@@ -5,11 +5,11 @@ Rust Wrapper for SVOX Pico TTS
 
 This library is a very simple wrapper for the SVOX Pico TTS Linux package.
 
-What is Pico?
+**What is Pico?**
 
 Pico is a Text-To-Speech (TTS) voice sinthesizer. It uses the TTS binary from SVOX for producing spoken text.
 
-Support languages:
+**Supported languages:**
 - English, US (en-US)
 - English, GB (en-GB)
 - French (fr-FR)
