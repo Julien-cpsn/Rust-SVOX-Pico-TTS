@@ -1,6 +1,8 @@
 Rust Wrapper for SVOX Pico TTS
 ===
 
+[![Rust](https://github.com/Julien-cpsn/Rust-SVOX-Pico-TTS/actions/workflows/rust.yml/badge.svg)](https://github.com/Julien-cpsn/Rust-SVOX-Pico-TTS/actions/workflows/rust.yml)
+
 ## Introduction
 
 This library is a very simple wrapper for the SVOX Pico TTS Linux package.
